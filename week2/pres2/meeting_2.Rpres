@@ -1,4 +1,4 @@
-<div class="header" style="margin-top:0 px;font-size:60%;">RMSS: First Meeting </div>
+<div class="header" style="margin-top:0 px;font-size:60%;">RMSS: Second Meeting </div>
 
 Research Methodology in Social Sciences
 ========================================================
@@ -8,7 +8,7 @@ autosize: true
 transition: none
 css: css/style.css
 font-family: 'BPG_upper'
-<span style="font-weight:bold; font-family:BPG_upper;">First Meeting</span>
+<span style="font-weight:bold; font-family:BPG_upper;">Second Meeting</span>
 
 
 ```{r}
