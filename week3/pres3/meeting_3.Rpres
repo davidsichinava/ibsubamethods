@@ -1,0 +1,147 @@
+<div class="header" style="margin-top:0 px;font-size:60%;">RMSS: Third Meeting </div>
+
+Research Methodology in Social Sciences
+========================================================
+author: Dr. David Sichinava
+date: September 18, 2018
+autosize: true
+transition: none
+css: css/style.css
+font-family: 'BPG_upper'
+<span style="font-weight:bold; font-family:BPG_upper;">Third Meeting</span>
+
+
+```{r}
+```
+
+Today's plan
+========================================================
+incremental: true
+
+- Lecture:
+	+ Research design
+	+ Literature review
+
+
+Recap: Quantitative versus Qualitative
+========================================================
+
+|			 | **Quantitative**                                                            | **თვისებრივი**                                                                                  |
+|------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| The role of theory| Deductivism: theory testing | Inductivism: theory generation |
+| Epistemology:| Similar to social sciences, that is *positivism(s) | Interpreativism |
+
+Purposes of research
+========================================================
+* Exploring
+* Describing
+* Explaining
+
+Purposes of research
+========================================================
+In your opinion, what methods would use exploratory, descriptive, and explanatory studies?
+
+Logic of research
+========================================================
+* Nomothetic
+* Idiographic
+
+Qualitative and quantitative research: issues of design
+========================================================
+* Linear vs. non-linear
+* Pre-planned vs. emergent
+
+Qualitative and quantitative research: issues of design
+========================================================
+<img src="img/qual_quant.PNG" alt="Drawing" style="width: 800px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+How does qualitative research speak?
+========================================================
+* Cases and contexts
+* Grounded theory
+* The role of context
+* Case and process
+* Interpretation
+	+ First order: point of view of the subjects
+	+ Second order: link to the context and get overall sense of collected data
+	+ Third order: interpret the results through general theories
+
+How does quantitative research speak?
+========================================================
+* Hypotheses and variables
+* Causality
+* Hypothesis testing
+	+ Negation
+
+Causal model of nomothetic science
+========================================================
+* Things must be correlated
+* Cause must take place _before_ the effect
+* Variables should be non-spurious
+
+Causal models in nomothetic analysis
+========================================================
+<img src="img/cage.png" alt="Drawing" style="width: 800px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+Causal models in nomothetic analysis
+========================================================
+* Hypothesis testing: remember those black swans
+* Statistical significance
+* No complete causation
+	+ Exceptional cases
+
+	
+Causal models in nomothetic analysis
+========================================================
+* Necessary and sufficient cases
+
+Units of analysis
+========================================================
+* Individuals
+* Groups
+* Organizations
+* Social interactions
+* Social artifacts
+
+Units of analysis: pitfalls
+========================================================
+* Ecological fallacy
+* Reductionism
+
+Designing your research project
+========================================================
+<img src="img/research_process.png" alt="Drawing" style="width: 800px; display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"/>
+
+	
+Literature review: rationale
+========================================================
+* Demonstrate familiarity with a body of knowledge and establish credibility
+* Show paths of prior research and how your work fits in
+* Integrate and summarize the existing knowledge in the area
+* Learn from others and stimulate new ideas
+
+Literature review: where to find it?
+========================================================
+* Google Scholar (Free!)
+* EBSCOHOST (Not free, not cheap)
+* Web of Knowledge (Not free, not cheap)
+
+Literature review: how to search?
+========================================================
+* Refine your research topic and come up with keywords
+* Look for the relevant publications
+* Organize your bibliography
+	+ Zotero, Endnote, Evernote
+* Read and take notes
+	+ Zotero, Endnote, Evernote, Cornell note taking system, spreadsheets, annotated bibliographies
+* Write
+
+How to write good literature review?
+========================================================
+* Read your literature _critically_
+* DO NOT make it just summaries of texts
+* Use _inverted pyramid_ when writing: start with general theoretical background and finish with topic-specific discussions
+
+====================================
+
+<img src="img/goodbye.gif" alt="Drawing" style="width: 700px; display: block; margin-left: auto; margin-right: auto;"/>
