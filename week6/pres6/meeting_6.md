@@ -1,0 +1,162 @@
+
+<div class="header" style="margin-top:0 px;font-size:60%;">RMSS: Sixth Meeting </div>
+Research Methodology in Social Sciences
+========================================================
+author: Dr. David Sichinava
+date: October 23, 2018
+autosize: true
+transition: none
+css: css/style.css
+font-family: 'BPG_upper'
+<span style="font-weight:bold; font-family:BPG_upper;">Sixth Meeting</span>
+
+
+
+
+Today's plan
+========================================================
+incremental: true
+
+- Lecture:
+	+ Sampling and interviewing
+
+
+Important question - who are our informants?
+========================================================
+* We have to sample them, although the approaches differ across whether we do quantitative or qualitative research
+* Question: what kind of information do we need from informants in:
+	+ Quantitative research?
+	+ Qualitative research?
+
+Important question - who are our informants?
+========================================================
+* Quantitative research uses non-probability sample, as it _is not interested_ in making assumptions regarding population,
+	+ In other words, non-probability sample yields non-representative samples
+* Quantitative research uses _probability samples_, as it is interested in making inferences regarding what the population looks like (or thinks), therefore, respondent selection methods should obey the mathematical rules which 'make' samples representative, specifically, _the rule of large numbers_, and _central limit theorem_
+
+Sampling techniques for qualitative research
+========================================================
+* Haphazard
+* Quota
+* Purposive
+* Snowball
+* Deviant case
+* Sequential
+
+Sampling techniques for quantitative research
+========================================================
+* For quantitative research, sample should be _probability-based_, or in other words, a _random_ sample where each _element_ of sample has (almost) equal chance of being selected
+* Population vs. sample
+
+
+Sampling techniques for quantitative research
+========================================================
+* Simple random sample (SRS)
+	+ RDD (Random digit dial)
+* Systematic sample
+* Stratified sample
+* Cluster sample
+	+ Multi-stage cluster sample
+
+Interviewing in quantitative research
+========================================================
+* Surveys
+* Experiments
+
+Interviewing in quantitative research
+========================================================
+* Surveys are _structured_ interviews which help us make inference regarding _population_
+	+ Through sampling, we select respondents and then interview them
+* Experiments are _structured_ interviews (either self-administered or interviewer-administered) which help us understand _causal_ mechanisms behind a particular phenomenon
+	+ Simply put, we compare two groups to which participants are assigned randomly. One group receives _a treatment_ (say, reads a text, looks at a picture, listens to a audio recording), the other group does not. If there's a difference between groups, we might attribute this difference to the assigned treatment
+	
+How do we ask questions in surveys and experiments?
+========================================================
+* Usually, we use closed questions in quantitative research
+* Questions should be simple and easy to understand. Always keep in mind respondent's perspective
+* One should also consider the _flow_, or the question order
+	+ We usually start from the warm-up questions, keep the hardest (and the most important) to the middle, and end with factual questions
+	+ Sometimes, it is important to _randomize_ the order of questions to avoid possible bias
+
+Twelve commandments to avoid
+========================================================
+* Jargons, slang, and abbreviations
+* Ambiguity, confusion, vagueness
+* Emotional language
+* Prestige bias
+* Double-barelled questions
+* Confusing beliefs with reality
+* Leading questions
+* Questions beyond respondent's capabilities
+* False premises
+* Intentions for distant future
+* Double negatives (relevant for English and Georgian speakers :) )
+* Overlapping responses
+
+Twelve commandments to avoid
+========================================================
+* How do we make questions - measurement
+	+ Nominal, ordinal, interval, ratio
+* Scales
+	+ Likert
+	+ Bogardus
+	+ Semantic differential
+	+ Guttman
+
+	
+Interviewing in qua_l_itative research
+========================================================
+* No strict structure, therefore interviews here are considered as _semi-structured_ or even _unstructured_
+* Sometimes it is even recommended to avoid any prior structure (think about the nature of qualitative research)
+
+Interviewing in qua_l_itative research
+========================================================
+> RESPONDENT : My life is—the euphemism I guess today is “couch potato.” I stay home. I try to go out as infrequently as I can. When I say “out,” I mean, like shopping … um, going any place. I listen to a lot of music. I read a great deal. And I watch television a great deal. I don’t see anyone. I do speak to my daughter; I speak to her on the phone. That’s it! All the things that I thought I would do, if I weren’t in a working situation … I’d be writing, I’d create, I’d start a business. I had so many ideas while I was still working. I sort of—now maybe this is fanciful thinking—but I sort of pride myself on being a person who comes up with ideas fairly easily. When I say “ideas,” I mean practical, good ideas and creative ideas. But I have no opportunity to … Oh, my only hobby is crossword puzzles, [chuckles] Which is more of the same, just sitting there in isolation.
+
+> I’m not unhappy with my situation. But just that I feel like that the past year … wasn’t unpleasant—none of it is unpleasant—but it really didn’t matter whether I … had been alive last year or not. Except in terms of what I can offer to my daughter, who’s in Syracuse. I haven’t been to visit my daughter and her husband in almost a year. Well, partly it’s because of health. I’m afraid to drive a full six and a half hours. Because I do get very, very dizzy and have to pull up to the side of the road. So, you know, it’s difficult. But, you know, if I really wanted to open my door, I could take a plane. I could take a taxi over to the airport, and I could fly there. I mean, I could be doing things. I could find alternative ways. But I just don’t want to. I don’t know if you remember, but I’ve sort of let myself go. I’m all gray now, practically. Which is okay. If you decide to be. I’m going around in sneakers. I don’t have a pair of shoes anymore. It’s not a sloppiness. It’s just like I’m wearing house slippers all the time, you know, except that it’s acceptable in the street. It’s like nothing really matters that much. I was going to put on shoes—I mean, you know, real pumps, I mean, the kind that I used to wear—when I came here. And I … it was like I was torn between pride in my appearance and the fact that it doesn’t really matter. As long as I can be comfortable.
+
+> INTERVIEWER: Yeah. It’s like you’ve gone through a metamorphosis?
+
+> RESPONDENT: Yeah. But the problem … I can understand my reacting this way for a brief time. Hey, I’m going to have the luxury of sloth. And no demands. I’m going to do whatever I want to. If I want to sleep late, I’ll sleep late. If I want to stay up ’til two or three in the morning, which I do … [chuckles] I could understand that as a reaction. The fact that it’s extended like almost two years just doesn’t worry me. Because if it worried me I’d do something about it. I just don’t think about it. It’s just that I don’t see any changes coming into my life, unless someone knocks on that door for me. And that’s not going to happen.
+
+> INTERVIEWER: Yeah. Is this a way to capture what you’re feeling about it: that it doesn’t worry you, exactly, but it perplexes you?
+
+> RESPONDENT: Yeah, I just don’t understand it	
+
+Interviewing in qua_l_itative research
+========================================================
+* Although qualitative interviews might appear _conversational_, although the interviewer should direct the respondent to the topics of interest _avoiding personal feelings_
+
+Why should we do qualitative interviews?
+========================================================
+* Develop a detailed description
+* Integrate multiple perspectives
+* Describe a process
+* Develop a holistic description
+* Learn interpretations
+* Identify variables and form hypothesis for quantitative research
+
+How to do interviews?
+========================================================
+* Develop a guide, or a set of topics you want to talk about with the respondent
+* During the interview process, you might use verbal and non-verbal cues to encourage or to direct the respondent
+* Make notes
+* When transcribing the interview, try to incorporate the _context_ of the interview
+
+Consider the following:
+========================================================
+* What is it you want to obtain in the interview?
+* Tense and specificity in the interview
+* Questions to ask
+* Helping respondents develop information
+
+When interviewing
+========================================================
+* The interview is a collaboration
+* Self-disclosure is not necessary
+* Monitoring the information the respondent is providing
+* Manage transitions
+
+====================================
+
+<img src="img/giphy.gif" alt="Drawing" style="width: 700px; display: block; margin-left: auto; margin-right: auto;"/>
